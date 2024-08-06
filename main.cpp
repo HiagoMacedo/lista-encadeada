@@ -31,8 +31,9 @@ int main()
     std::cout << "Removido pos(3): " << lista.remover(3) << std::endl;
     lista.print();
 
-    std::cout << "Tamanho da lista: " << lista.tamanho() << std::endl;
     std::cout << "Elemento da 3 posicao da lista: " << lista.posicao(3) << std::endl;
+    std::cout << "A lista esta vazia? " << lista.isVazia() << std::endl;
+    std::cout << "Tamanho da lista: " << lista.tamanho() << std::endl;
     
     return 0;
 }
