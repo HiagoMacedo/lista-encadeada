@@ -1,4 +1,4 @@
-# Lista Sequencial
+# Lista Encadeada
 *Atividade da disciplina de Estrutura de Dados da UFPB*  
 A Lista Encadeada e o No, está **declarada** e **definida** no arquivo ***ListaEncadeada.hpp*** e ***No.hpp***, respectivamente, devido a lista estar implementada usando templates.
 
